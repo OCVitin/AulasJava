@@ -1,3 +1,4 @@
 # AulasJava
 Este é um repositório com os projetos em Java que estou fazendo na faculdade. Começando com a pasta "filial", ela foi um projeto que fiz com um grupo da faculdade sobre uma loja de artigos retrô, onde filial é o nome de um pacote. Esse projeto foi desenvolvido pelo Apache, em uma JavaApplication chamada BackToThePast com a Filial como package único e principal. O arquivo main é a Loja.
+
 Já o projeto do JogoModelado, é um jogo que projetei segundo umas regras do professor com uns colegas de turma. O jogo ficou bem simples, feito pelo Apache, com o intuito de testar o que aprendemos sobre herança. Ainda não está funcionando muito bem, principalmente por causa do tempo que tivemos para fazer, mas tem algumas partes do código que podem me ajudar em alguns projetos, então estou postando aqui para guardar.
