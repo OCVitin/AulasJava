@@ -1,2 +1,2 @@
 # AulasJava
-Repositório com minhas atividades de Java
+Este é um repositório com os projetos em Java que estou fazendo na faculdade. Começando com a pasta "filial", ela foi um projeto que fiz com um grupo da faculdade sobre uma loja de artigos retrô, onde filial é o nome de um pacote. Esse projeto foi desenvolvido pelo Apache, em uma JavaApplication chamada BackToThePast com a Filial como package único e principal. O arquivo main é a Loja.
